@@ -1,5 +1,5 @@
-# 👨‍💻 ML Research Engineer at Barcelona Supercomputing Center 💻
-## Continual Learning for Production Systems | Trustworthy AI | Multiagents
+## 👨‍💻 ML Research Engineer at Barcelona Supercomputing Center 💻
+### Continual Learning for Production Systems | Trustworthy AI | MLOps
 
 Hi there! I'm Gusseppe Bravo, a passionate ML Research Engineer with several years of experience working on Production ML systems, Continual Learning, and Trustworthy AI. I am currently working at the Barcelona Supercomputing Center, where I get to work with some of the world's top supercomputers.
 
@@ -7,7 +7,7 @@ Hi there! I'm Gusseppe Bravo, a passionate ML Research Engineer with several yea
 Currently, I'm collaborating with Lenovo (USA) in Continual Learning and Trustworthy AI.
 
 ### 💻 Skills
-My expertise lies in Python and Spark development for MLOps, Numerical Analysis, Data Science, and Big Data. I am an Arctic Code Vault Contributor, and I love learning new technologies and exploring new domains.
+My expertise lies in Python, Spark, Java and C++ development for AI algorithms, MLOps, Numerical Analysis, Data Science, and Big Data. I am an Arctic Code Vault Contributor, and I love learning new technologies and exploring new domains.
 
 ### 🔬 Research Interests
 - Continual Learning
