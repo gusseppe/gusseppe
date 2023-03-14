@@ -1,16 +1,25 @@
-### Hi there 👋
+# 👨‍💻 ML Research Engineer at Barcelona Supercomputing Center 💻
+## Continual Learning for Production Systems | Trustworthy AI | Multiagents
 
-<!--
-**gusseppe/gusseppe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm Gusseppe Bravo, a passionate ML Research Engineer with several years of experience working on Production ML systems, Continual Learning, and Trustworthy AI. I am currently working at the Barcelona Supercomputing Center, where I get to work with some of the world's top supercomputers.
 
-Here are some ideas to get you started:
+### 🤝 Collaboration
+Currently, I'm collaborating with Lenovo (USA) in Continual Learning and Trustworthy AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Skills
+My expertise lies in Python and Spark development for MLOps, Numerical Analysis, Data Science, and Big Data. I am an Arctic Code Vault Contributor, and I love learning new technologies and exploring new domains.
+
+### 🔬 Research Interests
+- Continual Learning
+- Debugging Machine Learning models using AutoEncoders, Active Learning, and Interactive ML
+- Trustworthiness
+- Multiagents
+- MLOps
+
+### 🌟 Personal Goal
+I dream of creating an AI system that learns to adapt to different scenarios in real-time, just as humans adapt to situations naturally.
+
+### 📫 Let's Connect!
+If you're interested in connecting with me, feel free to send me a message or connect with me on [LinkedIn](https://www.linkedin.com/in/gusseppebravo/)!
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/gusseppebravo/)
