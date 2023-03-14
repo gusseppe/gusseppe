@@ -1,7 +1,7 @@
 ## 👨‍💻 ML Research Engineer at Barcelona Supercomputing Center 💻
 ### Continual Learning for Production Systems | Trustworthy AI | MLOps
 
-Hi there! I'm Gusseppe Bravo, a passionate ML Research Engineer with several years of experience working on Production ML systems, Continual Learning, and Trustworthy AI. I am currently working at the Barcelona Supercomputing Center, where I get to work with some of the world's top supercomputers.
+Hi there! I'm Gusseppe Bravo, a passionate ML Research Engineer with several years of experience working on Production ML systems, Continual Learning, Trustworthy AI and MLOps. I am currently working at the Barcelona Supercomputing Center, where I get to work with one of the world's top supercomputers.
 
 ### 🤝 Collaboration
 Currently, I'm collaborating with Lenovo (USA) in Continual Learning and Trustworthy AI.
