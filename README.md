@@ -9,7 +9,7 @@ Currently, I'm collaborating with Lenovo (USA) in Continual Learning and Trustwo
 ### 💻 Skills
 My expertise lies in Python, Spark, Java and C++ development for AI algorithms, MLOps, Numerical Analysis, Data Science, and Big Data. I am an Arctic Code Vault Contributor, and I love learning new technologies and exploring new domains.
 
-### 🔬 Research Interests
+### 🔬 Experience
 - Continual Learning, Domain Incremental learning.
 - Debugging Machine Learning models using AutoEncoders, Active Learning, and Interactive ML
 - Trustworthiness: Drift detection using Trust scores. 
