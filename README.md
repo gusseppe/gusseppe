@@ -10,11 +10,11 @@ Currently, I'm collaborating with Lenovo (USA) in Continual Learning and Trustwo
 My expertise lies in Python, Spark, Java and C++ development for AI algorithms, MLOps, Numerical Analysis, Data Science, and Big Data. I am an Arctic Code Vault Contributor, and I love learning new technologies and exploring new domains.
 
 ### 🔬 Research Interests
-- Continual Learning
+- Continual Learning, Domain Incremental learning.
 - Debugging Machine Learning models using AutoEncoders, Active Learning, and Interactive ML
-- Trustworthiness
-- Multiagents
-- MLOps
+- Trustworthiness: Drift detection using Trust scores. 
+- Multiagents: Applied to Monitoring, Checking and Planning of ML models.
+- MLOps: Custom implementations.
 
 ### 🌟 Personal Goal
 I dream of creating an AI system that learns to adapt to different scenarios in real-time, just as humans adapt to situations naturally.
