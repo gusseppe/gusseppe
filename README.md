@@ -1,20 +1,21 @@
 ## 👨‍💻 AI Research Engineer with Hacking skills 💻
 ### Continual Learning for Production Systems | Trustworthy AI | MLOps
 
-Hi there! I'm Gusseppe Bravo, a passionate ML Research Engineer with several years of experience working on Production ML systems, Continual Learning, Trustworthy AI and MLOps. I am currently working at the Barcelona Supercomputing Center, where I get to work with one of the world's top supercomputers.
+Hi there! I'm Gusseppe Bravo, a passionate AI Research Engineer with several years of experience working on Production ML systems, Continual Learning, Trustworthy AI, AI agents and MLOps. I am currently working at the Barcelona Supercomputing Center, where I get to work with one of the world's top supercomputers.
 
 ### 🤝 Collaboration
 Currently, I'm collaborating with Lenovo (USA) in Continual Learning and Trustworthy AI.
 
 ### 💻 Skills
-My expertise lies in Python, Spark, Java and C++ development for AI algorithms, MLOps, Numerical Analysis, Data Science, and Big Data. I am an Arctic Code Vault Contributor, and I love learning new technologies and exploring new domains.
+My expertise lies in Python, Spark, Java and C++ development for AI algorithms, MLOps, Numerical Analysis, Data Science, and Big Data. Linux is my virtual home.
 
 ### 🔬 Experience
 - Continual Learning, Domain Incremental learning.
 - Debugging Machine Learning models using AutoEncoders, Active Learning, and Interactive ML
 - Trustworthiness: Drift detection using Trust scores. 
 - Multiagents: Applied to Monitoring, Checking and Planning of ML models.
-- MLOps: Custom implementations.
+- Language agents: Cognitive architectures for RAG and Tool learning.
+- MLOps: Custom implementations for Pipeline development, CI/CD, Serving and Monitoring.
 
 ### 🌟 Personal Goal
 I dream of creating an AI system that learns to adapt to different scenarios in real-time, just as humans adapt to situations naturally.
