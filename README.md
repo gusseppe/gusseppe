@@ -4,17 +4,19 @@
 Hi there! I'm Gusseppe Bravo, a passionate AI Research Engineer with several years of experience working on Production ML systems, Continual Learning, Trustworthy AI, AI agents and MLOps. I am currently working at the Barcelona Supercomputing Center, where I get to work with one of the world's top supercomputers.
 
 ### 🤝 Collaboration
+
 Currently, I'm collaborating with Lenovo (USA) in Continual Learning and Trustworthy AI.
+Also, I'm an intern PhD student at Emory University. 
 
 ### 💻 Skills
 My expertise lies in Python, Spark, Java and C++ development for AI algorithms, MLOps, Numerical Analysis, Data Science, and Big Data. Linux is my virtual home.
 
 ### 🔬 Experience
 - Continual Learning, Domain Incremental learning.
-- Debugging Machine Learning models using AutoEncoders, Active Learning, and Interactive ML
+- Debugging Machine Learning models using AutoEncoders, Active Learning, and Interactive ML.
 - Trustworthiness: Drift detection using Trust scores. 
 - Multiagents: Applied to Monitoring, Checking and Planning of ML models.
-- Language agents: Cognitive architectures for RAG and Tool learning.
+- Language agents: Cognitive architectures for custom tasks (e.g, Monitoring ML models). 
 - MLOps: Custom implementations for Pipeline development, CI/CD, Serving and Monitoring.
 
 ### 🌟 Personal Goal
