@@ -6,7 +6,8 @@ Hi there! I'm Gusseppe Bravo, a passionate AI Research Engineer with several yea
 ### 🤝 Collaboration
 
 Currently, I'm collaborating with Lenovo (USA) in Continual Learning and Trustworthy AI.
-Also, I'm an intern PhD student at Emory University. 
+
+Also, I'm an intern PhD student at Emory University, developing a cognitive architecture for diabetic retinopathy models.
 
 ### 💻 Skills
 My expertise lies in Python, Spark, Java and C++ development for AI algorithms, MLOps, Numerical Analysis, Data Science, and Big Data. Linux is my virtual home.
